@@ -1,7 +1,7 @@
 # Snake_Game
 My rendition of the classic Snake game
 
-#Instructions
+# Instructions
 The snake starts at the top left corner of the board. To move the snake press one of the four arrow keys.
 
 # Installation
