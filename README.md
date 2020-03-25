@@ -8,4 +8,4 @@ You can set the walls to either be hassards or wrap around when you touch them b
 # Installation
 1. Download the repository files from the download section
 2. Import the files into any Java IDE
-3.Run the application
+3. Run the application
